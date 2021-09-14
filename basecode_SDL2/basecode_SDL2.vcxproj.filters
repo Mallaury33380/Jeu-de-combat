@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers sources\Armes">
+      <UniqueIdentifier>{a160a0b6-e8e5-4a9a-8120-231fc4bca27f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Personnages">
+      <UniqueIdentifier>{e1d84b86-db6b-44c4-9593-3251cc9bb1c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Personnages">
+      <UniqueIdentifier>{f38e52c1-0c47-4558-b270-7f1bdb6ebdd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Armes">
+      <UniqueIdentifier>{30109717-d5da-497d-98c0-2f9710faceda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Outils">
+      <UniqueIdentifier>{8456957b-5628-4adf-907b-c2c16da47fda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Outils">
+      <UniqueIdentifier>{a277fd15-8610-4d8d-b2e4-0082ed3beb4b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CBow.cpp">
+      <Filter>Fichiers sources\Armes</Filter>
+    </ClCompile>
+    <ClCompile Include="CDagger.cpp">
+      <Filter>Fichiers sources\Armes</Filter>
+    </ClCompile>
+    <ClCompile Include="CMelee.cpp">
+      <Filter>Fichiers sources\Armes</Filter>
+    </ClCompile>
+    <ClCompile Include="Cranged.cpp">
+      <Filter>Fichiers sources\Armes</Filter>
+    </ClCompile>
+    <ClCompile Include="CStaff.cpp">
+      <Filter>Fichiers sources\Armes</Filter>
+    </ClCompile>
+    <ClCompile Include="CSword.cpp">
+      <Filter>Fichiers sources\Armes</Filter>
+    </ClCompile>
+    <ClCompile Include="CWeapon.cpp">
+      <Filter>Fichiers sources\Armes</Filter>
+    </ClCompile>
+    <ClCompile Include="CWarrior.cpp">
+      <Filter>Fichiers sources\Personnages</Filter>
+    </ClCompile>
+    <ClCompile Include="CCharacter.cpp">
+      <Filter>Fichiers sources\Personnages</Filter>
+    </ClCompile>
+    <ClCompile Include="CArcher.cpp">
+      <Filter>Fichiers sources\Personnages</Filter>
+    </ClCompile>
+    <ClCompile Include="CMage.cpp">
+      <Filter>Fichiers sources\Personnages</Filter>
+    </ClCompile>
+    <ClCompile Include="CRogue.cpp">
+      <Filter>Fichiers sources\Personnages</Filter>
+    </ClCompile>
+    <ClCompile Include="CParsing.cpp">
+      <Filter>Fichiers sources\Outils</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="CGame.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="CGraphique.cpp">
+      <Filter>Fichiers sources\Outils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CWarrior.h">
+      <Filter>Fichiers d%27en-tête\Personnages</Filter>
+    </ClInclude>
+    <ClInclude Include="CCharacter.h">
+      <Filter>Fichiers d%27en-tête\Personnages</Filter>
+    </ClInclude>
+    <ClInclude Include="CBow.h">
+      <Filter>Fichiers d%27en-tête\Armes</Filter>
+    </ClInclude>
+    <ClInclude Include="CDagger.h">
+      <Filter>Fichiers d%27en-tête\Armes</Filter>
+    </ClInclude>
+    <ClInclude Include="CMelee.h">
+      <Filter>Fichiers d%27en-tête\Armes</Filter>
+    </ClInclude>
+    <ClInclude Include="CRanged.h">
+      <Filter>Fichiers d%27en-tête\Armes</Filter>
+    </ClInclude>
+    <ClInclude Include="CStaff.h">
+      <Filter>Fichiers d%27en-tête\Armes</Filter>
+    </ClInclude>
+    <ClInclude Include="CSword.h">
+      <Filter>Fichiers d%27en-tête\Armes</Filter>
+    </ClInclude>
+    <ClInclude Include="CWeapon.h">
+      <Filter>Fichiers d%27en-tête\Armes</Filter>
+    </ClInclude>
+    <ClInclude Include="CArcher.h">
+      <Filter>Fichiers d%27en-tête\Personnages</Filter>
+    </ClInclude>
+    <ClInclude Include="CMage.h">
+      <Filter>Fichiers d%27en-tête\Personnages</Filter>
+    </ClInclude>
+    <ClInclude Include="CRogue.h">
+      <Filter>Fichiers d%27en-tête\Personnages</Filter>
+    </ClInclude>
+    <ClInclude Include="CParsing.h">
+      <Filter>Fichiers d%27en-tête\Outils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Fichiers d%27en-tête\Outils</Filter>
+    </ClInclude>
+    <ClInclude Include="CGame.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="CGraphique.h">
+      <Filter>Fichiers d%27en-tête\Outils</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,152 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(504,5): warning MSB8004: Le répertoire Intermediate ne se termine pas par une barre oblique finale. Cette instance de build ajoutera une barre oblique, comme requis, pour permettre l'évaluation correcte du répertoire Intermediate.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(505,5): warning MSB8004: Le répertoire Output ne se termine pas par une barre oblique finale. Cette instance de build ajoutera une barre oblique, comme requis, pour permettre l'évaluation correcte du répertoire Output.
+  CArcher.cpp
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CArcher.cpp(57,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CArcher.cpp(61,63): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CArcher.cpp(66,22): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CArcher.cpp(78,24): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CArcher.cpp(127,30): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  CBow.cpp
+  CCharacter.cpp
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CCharacter.cpp(170,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CCharacter.cpp(174,39): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CCharacter.cpp(184,30): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  CDagger.cpp
+  CGame.cpp
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(187,49): warning C4244: 'argument' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(195,59): warning C4244: 'argument' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(199,59): warning C4244: 'argument' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(203,59): warning C4244: 'argument' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(207,59): warning C4244: 'argument' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(211,69): warning C4244: 'argument' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(233,49): warning C4244: 'argument' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(241,59): warning C4244: 'argument' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(245,59): warning C4244: 'argument' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(249,59): warning C4244: 'argument' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(253,59): warning C4244: 'argument' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(257,69): warning C4244: 'argument' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(276,62): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(402,50): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CGame.cpp(926,34): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  CGraphique.cpp
+  CMage.cpp
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CMage.cpp(72,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CMage.cpp(77,67): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CMage.cpp(82,22): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CMage.cpp(128,30): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CMage.cpp(140,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CMage.cpp(178,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  CMelee.cpp
+  CParsing.cpp
+  Cranged.cpp
+  CRogue.cpp
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CRogue.cpp(23,10): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CRogue.cpp(46,16): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CRogue.cpp(64,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CRogue.cpp(88,61): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CRogue.cpp(147,30): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CRogue.cpp(166,13): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  CStaff.cpp
+  CSword.cpp
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CSword.cpp(10,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  CWarrior.cpp
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CWarrior.cpp(19,10): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CWarrior.cpp(23,10): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CWarrior.cpp(27,10): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CWarrior.cpp(45,14): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CWarrior.cpp(49,20): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CWarrior.cpp(53,21): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CWarrior.cpp(75,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CWarrior.cpp(80,64): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CWarrior.cpp(84,22): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CWarrior.cpp(126,30): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CWarrior.cpp(143,13): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CWarrior.cpp(177,18): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\CWarrior.cpp(165,42): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+  CWeapon.cpp
+  main.cpp
+  Génération de code en cours...
+     Création de la bibliothèque C:\Users\perez\OneDrive\Bureau\Jeu de combat\bin\x64\basecode_SDL2_d.lib et de l'objet C:\Users\perez\OneDrive\Bureau\Jeu de combat\bin\x64\basecode_SDL2_d.exp
+  basecode_SDL2.vcxproj -> C:\Users\perez\OneDrive\Bureau\Jeu de combat\bin\x64\basecode_SDL2_d.exe
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\libFLAC-8.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\libfreetype-6.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\libjpeg-9.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\libmikmod-2.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\libmodplug-1.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\libogg-0.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\libpng16-16.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\libtiff-5.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\libvorbis-0.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\libvorbisfile-3.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\libwebp-4.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\SDL2.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\SDL2_image.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\SDL2_mixer.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\SDL2_ttf.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\smpeg2.dll
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\librairies\SDL2-2.0.6\bin\x64\zlib1.dll
+         17 fichier(s) copié(s).
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\cadre.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\champDeBataille.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\cible.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\imageActions.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\imageArene.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\imageArmes.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\imagePersonnages.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\indicateur.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\Menu.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\plaque1.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\plaque2.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\regles.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\selection.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\vaincu1.png
+  C:\Users\perez\OneDrive\Bureau\Jeu de combat\basecode_SDL2\data\vaincu2.png
+  15 fichier(s) copié(s)
